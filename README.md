@@ -23,3 +23,4 @@ Payment Gateway Used:-
 Project Designed for The sparks Foundation(GRIP).
 
 Designed By:-Yash Tariyal
+![alt text](https://github.com/YashTariyal/Payment-Gateway-Integration-Task-3_The-Sparks-Foundation/blob/main/images/Screenshot%20(86).png)
