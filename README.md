@@ -18,7 +18,7 @@ for the payment received. The invoice will contain the amount.
 
 Payment Gateway Used:- 
 
-      PayU
+        PayU
     
 Project Designed for The sparks Foundation(GRIP).
 
